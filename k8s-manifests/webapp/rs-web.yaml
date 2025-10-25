@@ -30,3 +30,4 @@ spec:
               value: employees
           ports:
             - containerPort: 8080
+# added label clarification
